@@ -11,8 +11,3 @@
 | **DevOps & Cloud** | Git/GitHub, Railway, Neon DB |
 
 ---
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](👉 Insert Your LinkedIn URL Here)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
