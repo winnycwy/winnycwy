@@ -8,7 +8,7 @@ Hello! My name is Winny. I am a final-year Game and Mobile Development student a
 | :--- | :--- |
 | **Mobile Development** | React Native, JavaScript, HTML |
 | **Game Dev & Design** | Unity, C#, C++, OpenGL Figma (UI/UX Wireframing) |
-| **Backend & Databases**| Python, Django REST Framework, PHP, PostgreSQL, MySQL |
+| **Backend & Databases**| Python, Django REST Framework, PHP, PostgreSQL, MySQL, MongoDB |
 | **DevOps & Cloud** | Git/GitHub, Railway, Neon DB |
 
 ---
