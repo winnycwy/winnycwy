@@ -14,5 +14,5 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](👉 https://www.linkedin.com/in/winny-chow-29b199317/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:winnydon04@gmail.com)
+LinkedIn: https://www.linkedin.com/in/winny-chow-29b199317/
+Email: winnydon04@gmail.com
